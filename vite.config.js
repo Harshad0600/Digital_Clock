@@ -3,6 +3,6 @@ import react from '@vitejs/plugin-react'
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base:"/Digital_clock/",
+  base:"/Digital_Clock/",
   plugins: [react()],
 })
